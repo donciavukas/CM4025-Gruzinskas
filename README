@@ -1,0 +1,10 @@
+1. Login system with multiplayer support
+2. Map environment with multiplayer support, 2 maps set randomly
+3. Chat system with multiplayer support
+4. Inventory system for individual players
+5. Ability to upgrade the inventory to increase speed
+
+Initially planned to have each wearable item to have different bonuses and upgrade individually.
+Features were planned to have: digging for treasure, saving gold, buying upgrades, talking with players, trading.
+Having a server wide market for players to trade with, whispering options.
+Traversable map system with treasure to hunt, found treasure would provide gold for upgrading equipment and hunting more treasure
