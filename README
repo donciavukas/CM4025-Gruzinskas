@@ -1,6 +1,8 @@
 Launch the game server by entering "node app" in cmd while at the directory of the project
 Needs MongoDB to be running
 
+localhost:2000
+
 1. Login system with multiplayer support
 2. Map environment with multiplayer support, 2 maps set randomly
 3. Chat system with multiplayer support
